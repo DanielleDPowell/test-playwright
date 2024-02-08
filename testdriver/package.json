@@ -1,0 +1,10 @@
+{
+  "name": "testdriver",
+  "version": "0.1.0",
+  "private": true,
+  "devDependencies": {
+    "@playwright/test": "^1.41.2",
+    "@types/node": "^20.11.16"
+  },
+  "scripts": {}
+}
