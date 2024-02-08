@@ -1,0 +1,32 @@
+<testsuites id="" name="" tests="12" failures="0" skipped="0" errors="0" time="5.679744">
+<testsuite name="example.spec.js" timestamp="2024-02-08T07:55:17.754Z" hostname="chromium" tests="4" failures="0" skipped="0" time="6.568" errors="0">
+<testcase name="has title" classname="example.spec.js" time="1.457">
+</testcase>
+<testcase name="get started link" classname="example.spec.js" time="1.983">
+</testcase>
+<testcase name="test suite › main navigation" classname="example.spec.js" time="1.527">
+</testcase>
+<testcase name="Trace viewer link" classname="example.spec.js" time="1.601">
+</testcase>
+</testsuite>
+<testsuite name="example.spec.js" timestamp="2024-02-08T07:55:17.754Z" hostname="firefox" tests="4" failures="0" skipped="0" time="10.955" errors="0">
+<testcase name="has title" classname="example.spec.js" time="2.555">
+</testcase>
+<testcase name="get started link" classname="example.spec.js" time="3.242">
+</testcase>
+<testcase name="test suite › main navigation" classname="example.spec.js" time="2.67">
+</testcase>
+<testcase name="Trace viewer link" classname="example.spec.js" time="2.488">
+</testcase>
+</testsuite>
+<testsuite name="example.spec.js" timestamp="2024-02-08T07:55:17.754Z" hostname="Google Chrome" tests="4" failures="0" skipped="0" time="3.997" errors="0">
+<testcase name="has title" classname="example.spec.js" time="0.964">
+</testcase>
+<testcase name="get started link" classname="example.spec.js" time="1.203">
+</testcase>
+<testcase name="test suite › main navigation" classname="example.spec.js" time="0.971">
+</testcase>
+<testcase name="Trace viewer link" classname="example.spec.js" time="0.859">
+</testcase>
+</testsuite>
+</testsuites>

@@ -44,6 +44,9 @@ reporting of testing
 
 - line tells you how many tests passed but not whcih ones ( Failures are reported inline)
 
+- junit is not that great - it kinda looks like a simple html file.
+
+
+TODO 
+
 - 
-
-
