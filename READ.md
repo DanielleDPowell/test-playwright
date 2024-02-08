@@ -49,4 +49,8 @@ reporting of testing
 
 TODO 
 
-- 
+- custom-reporter
+- learn mock APIs
+- more test hooks-
+- try to integrate into pipeline we already have 
+- retries in test hooks and api calls 

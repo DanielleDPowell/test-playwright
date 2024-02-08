@@ -38,3 +38,22 @@ test('Trace viewer link', async({ page }) => {
 
   await expect(page.getByRole('heading', {name : 'Running and debugging tests'})).toBeVisible();
 });
+
+
+// Test hook / suite  // tests will get two retry attempts
+test.describe(() => {
+  test.describe.configure({retries: 2});
+
+  test('test 1', async ({page}) => {
+    page.goto("https://playwright.dev/docs/running-tests")
+
+  });
+
+  test('test 2', async ({}) => {
+
+  })
+});
+
+
+//API Testing
+
