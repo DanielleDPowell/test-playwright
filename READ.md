@@ -16,5 +16,8 @@ To run in headed mode
 
 npx playwright test --headed
 
+the webkit test will continuously fail unless you have safari.
+
+(Also microsoft edge - it's considered a branded broswer)
 
 
